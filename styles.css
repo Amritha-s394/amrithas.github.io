@@ -1,0 +1,27 @@
+body,h1,h2,p{
+    margin:0;
+    padding: 0;
+}
+body{
+    font-family: Arial,sans-serif;
+    line-height:1.6;
+}
+main{
+    padding:2rem;
+}
+.profile{
+    display:flex;
+    margin:2 rem;
+}
+.photo img{
+    flex:1;
+}
+.bio{
+    text-align: center;
+}
+footer{
+    background-color: aliceblue;
+    color:black;
+    text-align: center;
+    padding:1rem;
+}
